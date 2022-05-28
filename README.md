@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PRAKASHKUMAR DEVELOPER AND QA
 - 👀 I’m interested in DEVLOPING WORKS AND QA 
-- 🌱 I’m currently learning JAVA
+- 🌱 I’m currently seeding JAVA
 - 💞️ I’m looking to collaborate TO DO WORK MINI PROJECT IN JAVA 
 - 📫 How to reach me ...MY MAIL.ID ::PRAKASHKUMARSTR4@GMAIL.COM AND MOBILE .NO :8637677104
 
